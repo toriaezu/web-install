@@ -1,6 +1,6 @@
 {
   "name": "web-install",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for Nativefier that creates symbolic links and .desktop entries",
   "main": "index.js",
   "scripts": {
