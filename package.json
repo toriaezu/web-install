@@ -1,0 +1,17 @@
+{
+  "name": "web-install",
+  "version": "1.0.0",
+  "description": "Wrapper for Nativefier that creates symbolic links and .desktop entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toriaezu",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "nativefier": "^7.5.4"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
